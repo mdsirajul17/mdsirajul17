@@ -1,7 +1,5 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEVgyf1bpyS4w/profile-displaybackgroundimage-shrink_350_1400/0/1709789565087?e=1728518400&v=beta&t=YaqKFgMv6ygKK0Oa1wd9eyA-zj7fGAHaGVfGA41uMUI)
 ### Hi there 👋, I'm Md Sirajul Islam
 #### Web Developer
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  SCSS/ HTML / CSS/JS
@@ -22,10 +20,10 @@ Skills:  SCSS/ HTML / CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsirajul17&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mdsirajul17/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mdsirajul17)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsirajul17)  
+
+
 
 
